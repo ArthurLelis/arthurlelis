@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Arthur Lelis
+# Hi there! 👋 I'm Arthur
 
 Welcome to my GitHub profile! I'm a **Full Stack Web and Mobile Developer** passionate about building creative and scalable digital solutions. I’m always exploring new technologies and improving my skills to deliver the best possible experiences.  
 
